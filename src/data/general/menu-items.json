@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "label": "Shop",
+        "url": "/shop",
+        "enabled": true,
+        "subitems": []
+    },
+    {
+        "id": "2",
+        "label": "Wall",
+        "url": "/wall",
+        "enabled": true,
+        "subitems": []
+    },
+    {
+        "id": "3",
+        "label": "About",
+        "url": "/about-us",
+        "enabled": true,
+        "subitems": []
+    },
+    {
+        "id": "4",
+        "label": "Contact",
+        "url": "/contact-us",
+        "enabled": true,
+        "subitems": []
+    }
+    
+
+
+]

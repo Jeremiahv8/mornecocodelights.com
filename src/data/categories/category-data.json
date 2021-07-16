@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "image": "https://filemanager.aegeantt.com/cdn/MysticLights/NudeCandle.png",
+    "name": "Naked Candles",
+    "count": 1,
+    "url": "/wall/the-snow-white-pinapple-vessel",
+    "info": "Naked/Nude/Virgin"
+  },
+  {
+    "id": "2",
+    "image": "https://filemanager.aegeantt.com/cdn/MysticLights/MasculineCandle.png",
+    "name": "Earth Strong Candles",
+    "count": 1,
+    "url": "/wall/the-copper-gold-pineapple-vessel",
+    "info": "Cadamond/Woody Leather"
+
+  },
+  {
+    "id": "3",
+    "image": "https://filemanager.aegeantt.com/cdn/MysticLights/ComingSoon.png",
+    "name": "Upcoming candles",
+    "count": 7,
+    "url": "",
+    "info": "New Candles"
+  },
+  {
+    "id": "4",
+    "image": "/WhiteImg",
+    "name": "Love Candles",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "5",
+    "image": "/YellowImg",
+    "name": "Sunshine Love",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "6",
+    "image": "/red",
+    "name": "Hearth of Love",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "7",
+    "image": "/green",
+    "name": "Nature Bloom",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "8",
+    "image": "/black",
+    "name": "Midnight Love",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "9",
+    "image": "/blue",
+    "name": "Male Love",
+    "count": 0,
+    "url": ""
+  },
+  {
+    "id": "10",
+    "image": "/Pink",
+    "name": "Female Love",
+    "count": 0,
+    "url": ""
+  }
+]
